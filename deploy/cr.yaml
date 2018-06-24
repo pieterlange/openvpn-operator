@@ -1,0 +1,4 @@
+apiVersion: "ptlc.nl/v1alpha1"
+kind: "OpenVPN"
+metadata:
+  name: "example"
